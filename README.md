@@ -1,0 +1,1 @@
+# getgc-blacklist-for-roblox-function-names-and-not-game-function-names
