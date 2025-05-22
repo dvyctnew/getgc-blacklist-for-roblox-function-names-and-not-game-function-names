@@ -15,3 +15,6 @@ for _, v in getgc(true) do
 	end
 end
 ```
+This is just if you want to find a game function like if they have a Raycast for a local function etc,
+you still might want to hook roblox functions for specific games this is just for people like me
+who hate the mess you have to go through.
